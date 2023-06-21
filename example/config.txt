@@ -1,0 +1,2 @@
+Prefix plugins/CSVHead/example/
+Plugin CSVHead inputfile input.csv outputfile columns.txt
